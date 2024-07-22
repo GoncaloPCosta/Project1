@@ -1,0 +1,12 @@
+body {
+	background-image: url(./dragonpic.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.info {
+	color: white;
+	text-align: center;
+}
+.mainmenu {
+	text-align: center;
+}
